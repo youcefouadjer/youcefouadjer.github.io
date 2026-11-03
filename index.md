@@ -2,9 +2,8 @@
 layout: homepage
 ---
 
-I am a Ph.D. in Electrical Engineering specializing in
-Artificial Intelligence, Machine Learning, Computer Vision,
-and Biometrics.
+I hold a Ph.D. in Electrical Engineering specializing in
+Biometrics, Computer Vision, and efficient deep learning
 
 My research focuses on efficient multimodal learning,
 behavioral biometrics, continuous authentication, and
